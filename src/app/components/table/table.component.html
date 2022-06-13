@@ -1,0 +1,35 @@
+<div class="device-table" *ngIf="dataSource">
+  <h2 class="device-table__caption">{{ title }}</h2>
+  <div class="mat-elevation-z8">
+    <mat-form-field appearance="fill" class="full-width">
+      <mat-label>Filter</mat-label>
+      <input matInput (keyup)="applyFilter($event)" placeholder="Search devices" #input>
+    </mat-form-field>
+    <table mat-table matSort  [dataSource]="dataSource">
+      <ng-container matColumnDef="model">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by model"> Model </th>
+        <td mat-cell *matCellDef="let element"> {{element.model}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="person">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by person"> Person </th>
+        <td mat-cell *matCellDef="let element"> {{element.person}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="group">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by group"> Group </th>
+        <td mat-cell *matCellDef="let element"> {{element.group }} </td>
+      </ng-container>
+    
+      <ng-container matColumnDef="category">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by category"> Category </th>
+        <td mat-cell *matCellDef="let element"> {{element.category}} </td>
+      </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+    <mat-paginator [pageSizeOptions]="[10, 20, 30]"  showFirstLastButtons aria-label="Select page of periodic elements">
+    </mat-paginator>
+  </div>
+</div>

@@ -1,0 +1,19 @@
+// You can add global styles to this file, and also import other style files
+
+$app-bg: #f0f0f0;
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: $app-bg;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  margin: 0;
+}
+
+footer {
+  padding: .5rem 0 1rem;
+  text-align: center;
+}

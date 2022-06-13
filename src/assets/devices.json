@@ -1,0 +1,613 @@
+{
+  "id": "devices",
+  "title": "Devices",
+  "collection_entries": 100,
+  "headers": [
+    "model",
+    "person",
+    "group",
+    "category"
+  ],
+  "rows": [
+    {
+      "model": "Apple iPad 4 16GB - Black",
+      "person": "Alivia Mohr",
+      "group": "National Configuration Executives",
+      "category": "Tablet"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Lane Dibbert",
+      "group": "Customer Integration Producers",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Chelsea Schowalter",
+      "group": "National Configuration Executives",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Frederic Reynolds",
+      "group": "Human Solutions Agents",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "ZTE MF79S",
+      "person": "Leda Altenwerth",
+      "group": "Human Tactics Administrators",
+      "category": "Data Card"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Muriel Lubowitz",
+      "group": "Customer Integration Producers",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Kim Kunde",
+      "group": "Human Intranet Strategists",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Celestino Gleichner",
+      "group": "Future Directives Facilitators",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Evert Larson",
+      "group": "Human Metrics Producers",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Dee Block",
+      "group": "Human Metrics Producers",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Chelsea Kshlerin",
+      "group": "National Configuration Executives",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Alfredo Adams",
+      "group": "Human Tactics Administrators",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Generic Phone",
+      "person": "Ocie Marquardt",
+      "group": "Human Solutions Agents",
+      "category": "Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Hope Schuster",
+      "group": "Human Solutions Agents",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Miracle Kessler",
+      "group": "Direct Response Technicians",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Vanessa Davis",
+      "group": "Customer Integration Producers",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Devin Kessler",
+      "group": "National Configuration Executives",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Simone Hand",
+      "group": "National Optimization Directors",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone 6s 32GB",
+      "person": "Domenica Jones",
+      "group": "Human Intranet Strategists",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Hildegard Schroeder",
+      "group": "Human Solutions Agents",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Caden Runolfsson",
+      "group": "Human Solutions Agents",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Susana Johnston",
+      "group": "Human Solutions Agents",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Edwina Gulgowski",
+      "group": "Investor Program Architects",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Antone Gerhold",
+      "group": "Corporate Creative Facilitators",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Skylar Green",
+      "group": "Investor Paradigm Developers",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Kylee Konopelski",
+      "group": "National Optimization Directors",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Riley Hoeger",
+      "group": "Human Intranet Strategists",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone 7 32GB - Black",
+      "person": "Assunta Donnelly",
+      "group": "National Configuration Executives",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone 7 32GB - Black",
+      "person": "Saige Graham",
+      "group": "National Configuration Executives",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone 7 32GB - Silver",
+      "person": "Cheyenne Boyer",
+      "group": "Senior Program Liaisons",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone SE 32GB",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone 7 32GB - Black",
+      "person": "Micah Reinger",
+      "group": "National Configuration Executives",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Verizon Jetpack 4G LTE Mobi",
+      "person": "Dina Conroy",
+      "group": "National Configuration Executives",
+      "category": "Data Card"
+    },
+    {
+      "model": "Apple iPhone 7 32GB - Black",
+      "person": "Norberto Dibbert",
+      "group": "National Configuration Executives",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Wilhelm Lemke",
+      "group": "Human Tactics Administrators",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Cory Kovacek",
+      "group": "Chief Branding Technicians",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Dereck Goodwin",
+      "group": "Senior Program Liaisons",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone 7 32GB - Black",
+      "person": "Clemmie Cummings",
+      "group": "National Configuration Executives",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "LG Revere 3",
+      "person": "Elvera Schmeler",
+      "group": "National Configuration Executives",
+      "category": "Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Carolina Witting",
+      "group": "Corporate Creative Facilitators",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Deon Hansen",
+      "group": "Direct Response Technicians",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Gilbert Hyatt",
+      "group": "National Configuration Executives",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Kieran Schultz",
+      "group": "Investor Paradigm Developers",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Dorthy Koepp",
+      "group": "Human Solutions Agents",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Bennett Spinka",
+      "group": "Human Solutions Agents",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Broderick Beatty",
+      "group": "Investor Program Architects",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Sammy Witting",
+      "group": "National Configuration Executives",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Elnora Cummings",
+      "group": "Human Intranet Strategists",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Liana Legros",
+      "group": "Human Solutions Agents",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Lamont Olson",
+      "group": "Human Solutions Agents",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Mariano Feeney",
+      "group": "Investor Program Architects",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Justus Wiza",
+      "group": "Human Solutions Agents",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Cleve Thompson",
+      "group": "Human Solutions Agents",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone 5s 16GB",
+      "person": "Camden Batz",
+      "group": "Human Tactics Administrators",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Reese Willms",
+      "group": "Human Solutions Agents",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone 6s 32GB",
+      "person": "Sunny Heathcote",
+      "group": "Human Intranet Strategists",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "D-Link 4G LTE USB Router DW",
+      "person": "Monty Homenick",
+      "group": "Human Tactics Administrators",
+      "category": "Router"
+    },
+    {
+      "model": "Apple iPhone 6s 32GB",
+      "person": "Lea Stanton",
+      "group": "Human Intranet Strategists",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPad (2017) 32GB",
+      "person": "Salvatore Leannon",
+      "group": "National Configuration Executives",
+      "category": "Tablet"
+    },
+    {
+      "model": "Apple iPad (2017) 32GB",
+      "person": "Tremayne Kulas",
+      "group": "Regional Branding Facilitators",
+      "category": "Tablet"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Alfredo Keebler",
+      "group": "Future Directives Facilitators",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone 7 Plus 128GB",
+      "person": "Jennifer Marks",
+      "group": "National Configuration Executives",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone 7 32GB - Black",
+      "person": "Silas Champlin",
+      "group": "National Configuration Executives",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone 7 32GB - Black",
+      "person": "Jerad Kunze",
+      "group": "National Configuration Executives",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Bart Schaden",
+      "group": "Human Intranet Strategists",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Android Smartphone -BYOM",
+      "person": "Isom Macejkovic",
+      "group": "Customer Integration Producers",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Berta Lakin",
+      "group": "Human Intranet Strategists",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone 7 32GB - Silver",
+      "person": "Graham Auer",
+      "group": "Senior Program Liaisons",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Kayley Koss",
+      "group": "Human Solutions Agents",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Oma Bartell",
+      "group": "National Configuration Executives",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone",
+      "person": "Francesca Mraz",
+      "group": "Product Optimization Analysts",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "LG Terra",
+      "person": "Breana Stehr",
+      "group": "National Configuration Executives",
+      "category": "Phone"
+    },
+    {
+      "model": "Apple iPhone 5s 16GB",
+      "person": "Camden Batz",
+      "group": "Human Tactics Administrators",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone 7 32GB - Black",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone 7 32GB - Black",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone 7 32GB - Black",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    },
+    {
+      "model": "Apple iPhone 7 32GB - Black",
+      "person": "",
+      "group": "",
+      "category": "Smart Phone"
+    }
+  ]
+}
